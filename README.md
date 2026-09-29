@@ -203,7 +203,8 @@ COVID-19-Impact-Testing-Vaccination-India/
 - 📈 [EDA Visualizations](EDA_Visualizations/)
 - 📁 [Datasets](data/)
 - 📷 [Dashboard Screenshots](images/)
-```
+  ```
+
 ## 👤 Author
 
 **Naresh Alakunta**

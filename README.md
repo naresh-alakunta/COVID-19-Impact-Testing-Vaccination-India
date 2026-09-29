@@ -162,33 +162,35 @@ The project uses COVID-19 data covering COVID-19 cases, recoveries, deaths, test
 The repository contains the datasets used for the analysis under the data/ folder.
 
 ## 📁 Project Structure
+
 ```text
 COVID-19-Impact-Testing-Vaccination-India/
 │
 ├── EDA_Visualizations/
+│   ├── covid19_wave_severity_comparison.png
 │   ├── daily_covid19_cases_trend.png
-│   ├── wave1_vs_wave2_cases.png
-│   ├── wave1_vs_wave2_deaths.png
 │   ├── top10_states_confirmed_cases.png
 │   ├── top10_states_covid_deaths.png
-│   └── covid19_wave_severity_comparison.png
+│   ├── wave1_vs_wave2_cases.png
+│   └── wave1_vs_wave2_deaths.png
+│
 ├── data/
-│   ├── Covid19_india_raw_dataset.csv
-│   └── covid19_india_cleaned_dataset.csv
+│   ├── covid19_india_cleaned_dataset.csv
+│   └── covid19_india_raw_dataset.csv
 │
 ├── documentation/
-│   └── COVID19_Impact_Testing_Vaccination_documentation.pdf
-|
-├── powerbi/
-│   └── Covid_India_dashboard.pbix
+│   └── COVID19_Impact_Testing_Vaccination_Analysis_documentation.pdf
 │
 ├── images/
-│   ├── India_covid19_overview.png
 │   ├── Covid19_State_impact_severity.png
-│   └── Covid19_Testing_vaccination.png
+│   ├── Covid19_Testing_vaccination.png
+│   └── India_covid19_overview.png
 │
 ├── notebooks/
 │   └── covid_india_project_python_code.ipynb
+│
+├── powerbi/
+│   └── Covid_India_dashboard.pbix
 │
 └── README.md
 ```

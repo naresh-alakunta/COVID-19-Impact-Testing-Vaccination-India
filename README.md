@@ -135,7 +135,14 @@ The repository contains the datasets used for the analysis under the Data/ folde
 ```text
 COVID-19-Impact-Testing-Vaccination-India/
 │
-├── Data/
+├── EDA_Visualizations/
+│   ├── daily_covid19_cases_trend.png
+│   ├── wave1_vs_wave2_cases.png
+│   ├── wave1_vs_wave2_deaths.png
+│   ├── top10_states_confirmed_cases.png
+│   ├── top10_states_covid_deaths.png
+│   └── covid19_wave_severity_comparison.png
+├── data/
 │   ├── Covid19_india_raw_dataset.csv
 │   └── covid19_india_cleaned_dataset.csv
 │

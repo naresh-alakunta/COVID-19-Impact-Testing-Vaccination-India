@@ -195,14 +195,16 @@ COVID-19-Impact-Testing-Vaccination-India/
 └── README.md
 ```
 
+```markdown
 ## ▶️ Project Files
-#### 🐍 Python Analysis: notebooks/
-#### 📊 Power BI Dashboard: powerbi/
-#### 📷 Dashboard Screenshots: images/
-#### 📁 Dataset: data/
-#### 📈 Exploratory Data Analysis: EDA_Visualizations/
-#### 📄 Document: documentation/
 
+- 🐍 [Python Analysis Notebook](notebooks/covid_india_project_python_code.ipynb)
+- 📊 [Power BI Dashboard](powerbi/Covid_India_dashboard.pbix)
+- 📄 [Project Documentation](documentation/COVID19_Impact_Testing_Vaccination_Analysis_documentation.pdf)
+- 📈 [EDA Visualizations](EDA_Visualizations/)
+- 📁 [Datasets](data/)
+- 📷 [Dashboard Screenshots](images/)
+```
 ## 👤 Author
 
 ### Naresh Alakunta

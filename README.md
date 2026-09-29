@@ -159,7 +159,7 @@ Based on the analysis, the project highlights the importance of:
 
 The project uses COVID-19 data covering COVID-19 cases, recoveries, deaths, testing, and vaccination-related indicators across Indian states and dates.
 
-The repository contains the datasets used for the analysis under the Data/ folder.
+The repository contains the datasets used for the analysis under the data/ folder.
 
 ## 📁 Project Structure
 ```text
@@ -179,7 +179,7 @@ COVID-19-Impact-Testing-Vaccination-India/
 ├── documentation/
 │   └── COVID19_Impact_Testing_Vaccination_documentation.pdf
 |
-├── PowerBI/
+├── powerbi/
 │   └── Covid_India_dashboard.pbix
 │
 ├── images/

@@ -1,4 +1,5 @@
-# COVID-19 Impact, Testing & Vaccination Analysis in India
+# <img width="250" height="142" alt="3DCoronaGIFbyMatthewButler" src="https://github.com/user-attachments/assets/aa9f3025-fc93-4759-965c-09e183123dec" />
+COVID-19 Impact, Testing & Vaccination Analysis in India
 
 An end-to-end data analytics project using Python and Power BI to analyze COVID-19 impact, testing patterns, vaccination trends, and state-wise healthcare burden across India.
 

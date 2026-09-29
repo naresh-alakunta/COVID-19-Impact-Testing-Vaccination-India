@@ -176,7 +176,7 @@ COVID-19-Impact-Testing-Vaccination-India/
 │   └── covid19_india_cleaned_dataset.csv
 │
 ├── documentation/
-│   └── COVID19_Impact_Testing_Vaccination
+│   └── COVID19_Impact_Testing_Vaccination_documentation.pdf
 ├── PowerBI/
 │   └── Covid_India_dashboard.pbix
 │

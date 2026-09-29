@@ -195,7 +195,6 @@ COVID-19-Impact-Testing-Vaccination-India/
 └── README.md
 ```
 
-```markdown
 ## ▶️ Project Files
 
 - 🐍 [Python Analysis Notebook](notebooks/covid_india_project_python_code.ipynb)

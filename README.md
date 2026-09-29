@@ -70,4 +70,85 @@ Exploratory Data Analysis
 Insight Generation
       ↓
 Power BI Dashboard
+```
+## 📊 Power BI Dashboard
+
+The Power BI dashboard presents the major findings from the analysis through interactive visualizations.
+
+🇮🇳 COVID-19 Overview
+
+📍 State-wise Impact & Severity
+
+🧪 Testing & 💉 Vaccination Analysis
+
+🔍 Key Analysis Areas
+1. COVID-19 Trend & Wave Analysis
+
+The analysis examines COVID-19 case, recovery, death, and active-case trends over time to identify major waves and periods of increased disease burden.
+
+2. State-wise Impact & Severity
+
+State-level analysis is used to compare COVID-19 impact and severity across different regions of India.
+
+3. Testing Analysis
+
+Testing volume and positivity-related metrics are analyzed to understand testing patterns and COVID-19 detection trends.
+
+4. Vaccination Analysis
+
+Vaccination data is analyzed to understand vaccination progression and differences across states and over time.
+
+5. Outlier Analysis
+
+Statistical analysis is used to identify unusual observations in important COVID-19 metrics such as new cases, new recoveries, new deaths, active cases, and testing volume.
+
+💡 Recommendations
+
+Based on the analysis, the project highlights the importance of:
+
+Monitoring regional COVID-19 trends continuously.
+Strengthening healthcare preparedness during periods of increasing active cases.
+Maintaining adequate testing capacity during infection surges.
+Monitoring positivity rates alongside testing volume.
+Supporting vaccination coverage in regions with comparatively lower vaccination levels.
+Using historical wave and state-level patterns to improve preparedness for future outbreaks.
+📂 Dataset
+
+The project uses COVID-19 data covering COVID-19 cases, recoveries, deaths, testing, and vaccination-related indicators across Indian states and dates.
+
+The repository contains the datasets used for the analysis under the Data/ folder.
+
+📁 Project Structure
+COVID-19-Impact-Testing-Vaccination-India/
+│
+├── Data/
+│   ├── Covid19_india_raw_dataset.csv
+│   └── covid19_india_cleaned_dataset.csv
+│
+├── PowerBI/
+│   └── Covid_India_dashboard.pbix
+│
+├── images/
+│   ├── india_covid19_overview.png
+│   ├── Covid19_State_impact_severity.png
+│   └── Covid19_Testing_vaccination.png
+│
+├── notebooks/
+│   └── covid_india_project_python_code.ipynb
+│
+└── README.md
+▶️ Project Files
+🐍 Python Analysis: notebooks/
+📊 Power BI Dashboard: PowerBI/
+📷 Dashboard Screenshots: images/
+📁 Dataset: Data/
+👤 Author
+
+Naresh Alakunta
+
+Data Analyst | Data Science Enthusiast
+
+LinkedIn: Naresh Alakunta
+Email: nareshalakunta29@gmail.com
+GitHub: naresh-alakunta
       

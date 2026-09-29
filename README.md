@@ -102,23 +102,30 @@ Vaccination data is analyzed to understand vaccination progression and differenc
 
 Statistical analysis is used to identify unusual observations in important COVID-19 metrics such as new cases, new recoveries, new deaths, active cases, and testing volume.
 
-💡 Recommendations
+## 💡 Recommendations
 
 Based on the analysis, the project highlights the importance of:
 
-Monitoring regional COVID-19 trends continuously.
-Strengthening healthcare preparedness during periods of increasing active cases.
-Maintaining adequate testing capacity during infection surges.
-Monitoring positivity rates alongside testing volume.
-Supporting vaccination coverage in regions with comparatively lower vaccination levels.
-Using historical wave and state-level patterns to improve preparedness for future outbreaks.
-📂 Dataset
+. Monitoring regional COVID-19 trends continuously.
+
+. Strengthening healthcare preparedness during periods of increasing active cases.
+
+. Maintaining adequate testing capacity during infection surges.
+
+. Monitoring positivity rates alongside testing volume.
+
+. Supporting vaccination coverage in regions with comparatively lower vaccination levels.
+
+. Using historical wave and state-level patterns to improve preparedness for future outbreaks.
+
+## 📂 Dataset
 
 The project uses COVID-19 data covering COVID-19 cases, recoveries, deaths, testing, and vaccination-related indicators across Indian states and dates.
 
 The repository contains the datasets used for the analysis under the Data/ folder.
 
-📁 Project Structure
+## 📁 Project Structure
+```text
 COVID-19-Impact-Testing-Vaccination-India/
 │
 ├── Data/
@@ -129,7 +136,7 @@ COVID-19-Impact-Testing-Vaccination-India/
 │   └── Covid_India_dashboard.pbix
 │
 ├── images/
-│   ├── india_covid19_overview.png
+│   ├── India_covid19_overview.png
 │   ├── Covid19_State_impact_severity.png
 │   └── Covid19_Testing_vaccination.png
 │
@@ -137,18 +144,19 @@ COVID-19-Impact-Testing-Vaccination-India/
 │   └── covid_india_project_python_code.ipynb
 │
 └── README.md
-▶️ Project Files
-🐍 Python Analysis: notebooks/
-📊 Power BI Dashboard: PowerBI/
-📷 Dashboard Screenshots: images/
-📁 Dataset: Data/
-👤 Author
+```
 
-Naresh Alakunta
+## ▶️ Project Files
+#### 🐍 Python Analysis: notebooks/
+#### 📊 Power BI Dashboard: powerbi/
+#### 📷 Dashboard Screenshots: images/
+#### 📁 Dataset: data/
 
-Data Analyst | Data Science Enthusiast
+## 👤 Author
 
-LinkedIn: Naresh Alakunta
-Email: nareshalakunta29@gmail.com
-GitHub: naresh-alakunta
+### Naresh Alakunta
+
+### Data Analyst | Data Science Enthusiast
+
+
       

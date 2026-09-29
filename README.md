@@ -71,15 +71,22 @@ Insight Generation
       ↓
 Power BI Dashboard
 ```
+
 ## 📊 Power BI Dashboard
 
+### Page 1 — India_Covid19_Overview
+
+![India COVID-19 Overview](images/India_covid19_overview.png)
+
+### Page 2 — State Impact & Severity
+
+![State Impact & Severity](images/Covid19_State_impact_severity.png)
+
+### Page 3 — Testing & Vaccination
+
+![Testing & Vaccination](images/Covid19_Testing_vaccination.png)
+
 The Power BI dashboard presents the major findings from the analysis through interactive visualizations.
-
-🇮🇳 COVID-19 Overview
-
-📍 State-wise Impact & Severity
-
-🧪 Testing & 💉 Vaccination Analysis
 
 🔍 Key Analysis Areas
 1. COVID-19 Trend & Wave Analysis

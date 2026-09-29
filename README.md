@@ -73,42 +73,6 @@ Insight Generation
 Power BI Dashboard
 ```
 
-## 📊 Power BI Dashboard
-
-### Page 1 — India_Covid19_Overview
-
-![India COVID-19 Overview](images/India_covid19_overview.png)
-
-### Page 2 — State Impact & Severity
-
-![State Impact & Severity](images/Covid19_State_impact_severity.png)
-
-### Page 3 — Testing & Vaccination
-
-![Testing & Vaccination](images/Covid19_Testing_vaccination.png)
-
-The Power BI dashboard presents the major findings from the analysis through interactive visualizations.
-
-🔍 Key Analysis Areas
-1. COVID-19 Trend & Wave Analysis
-
-The analysis examines COVID-19 case, recovery, death, and active-case trends over time to identify major waves and periods of increased disease burden.
-
-2. State-wise Impact & Severity
-
-State-level analysis is used to compare COVID-19 impact and severity across different regions of India.
-
-3. Testing Analysis
-
-Testing volume and positivity-related metrics are analyzed to understand testing patterns and COVID-19 detection trends.
-
-4. Vaccination Analysis
-
-Vaccination data is analyzed to understand vaccination progression and differences across states and over time.
-
-5. Outlier Analysis
-
-Statistical analysis is used to identify unusual observations in important COVID-19 metrics such as new cases, new recoveries, new deaths, active cases, and testing volume.
 
 ## 📈 Exploratory Data Analysis
 
@@ -137,6 +101,43 @@ Python was used to perform exploratory data analysis to identify COVID-19 trends
 ### COVID-19 Wave Severity Comparison
 
 ![COVID-19 Wave Severity](EDA_Visualizations/covid19_wave_severity_comparison.png)
+
+## 📊 Power BI Dashboard
+
+### Page 1 — India_Covid19_Overview
+
+![India COVID-19 Overview](images/India_covid19_overview.png)
+
+### Page 2 — State Impact & Severity
+
+![State Impact & Severity](images/Covid19_State_impact_severity.png)
+
+### Page 3 — Testing & Vaccination
+
+![Testing & Vaccination](images/Covid19_Testing_vaccination.png)
+
+The Power BI dashboard presents the major findings from the analysis through interactive visualizations.
+
+🔍 Key Analysis Areas
+### 1. COVID-19 Trend & Wave Analysis
+
+The analysis examines COVID-19 case, recovery, death, and active-case trends over time to identify major waves and periods of increased disease burden.
+
+### 2. State-wise Impact & Severity
+
+State-level analysis is used to compare COVID-19 impact and severity across different regions of India.
+
+### 3. Testing Analysis
+
+Testing volume and positivity-related metrics are analyzed to understand testing patterns and COVID-19 detection trends.
+
+### 4. Vaccination Analysis
+
+Vaccination data is analyzed to understand vaccination progression and differences across states and over time.
+
+### 5. Outlier Analysis
+
+Statistical analysis is used to identify unusual observations in important COVID-19 metrics such as new cases, new recoveries, new deaths, active cases, and testing volume.
 
 ## 💡 Recommendations
 
@@ -197,6 +198,8 @@ COVID-19-Impact-Testing-Vaccination-India/
 #### 📊 Power BI Dashboard: powerbi/
 #### 📷 Dashboard Screenshots: images/
 #### 📁 Dataset: data/
+#### 📈 Exploratory Data Analysis: EDA_Visualizations/
+#### 📄 Document: documentation/
 
 ## 👤 Author
 

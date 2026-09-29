@@ -110,6 +110,34 @@ Vaccination data is analyzed to understand vaccination progression and differenc
 
 Statistical analysis is used to identify unusual observations in important COVID-19 metrics such as new cases, new recoveries, new deaths, active cases, and testing volume.
 
+## 📈 Exploratory Data Analysis
+
+Python was used to perform exploratory data analysis to identify COVID-19 trends, wave patterns, state-wise impact, and severity differences.
+
+### Daily COVID-19 Cases Trend
+
+![Daily COVID-19 Cases Trend](EDA_Visualizations/daily_covid19_cases_trend.png)
+
+### Wave 1 vs Wave 2 — Peak Cases
+
+![Wave 1 vs Wave 2 Cases](EDA_Visualizations/wave1_vs_wave2_cases.png)
+
+### Wave 1 vs Wave 2 — Peak Deaths
+
+![Wave 1 vs Wave 2 Deaths](EDA_Visualizations/wave1_vs_wave2_deaths.png)
+
+### Top 10 States by Confirmed Cases
+
+![Top 10 States by Confirmed Cases](EDA_Visualizations/top10_states_confirmed_cases.png)
+
+### Top 10 States by COVID-19 Deaths
+
+![Top 10 States by COVID-19 Deaths](EDA_Visualizations/top10_states_covid_deaths.png)
+
+### COVID-19 Wave Severity Comparison
+
+![COVID-19 Wave Severity](EDA_Visualizations/covid19_wave_severity_comparison.png)
+
 ## 💡 Recommendations
 
 Based on the analysis, the project highlights the importance of:
